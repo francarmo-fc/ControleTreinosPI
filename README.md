@@ -8,9 +8,10 @@ Em desenvolvimento
 - NetBeans
 - MySQL
 - JDBC
-- Git e GitHub
+- Git
+- GitHub
 
-## Desenvolvedor
+## Time de Desenvolvedores
 - Fran
 
 ## Objetivo do Sistema
@@ -24,4 +25,3 @@ Sistema desktop desenvolvido para realizar o controle de treinos e exercícios f
 - Listagem de exercícios
 - Listagem de treinos
 - Conexão com banco de dados MySQL
-
